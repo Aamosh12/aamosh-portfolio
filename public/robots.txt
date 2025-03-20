@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://aamoshmaharjan.com.np
+
+# Sitemaps
+Sitemap: https://aamoshmaharjan.com.np/sitemap.xml
