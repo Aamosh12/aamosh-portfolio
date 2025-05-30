@@ -2,7 +2,6 @@
 import AnimatedBackground from "@/components/background/AnimatedBackground";
 import HeroSection from "@/components/Hero";
 import NavSection from "@/components/Navbar/NavSection";
-import SkillsShowcase from "@/components/SkillsSection";
 import React, { useState } from "react";
 
 const Home = () => {
