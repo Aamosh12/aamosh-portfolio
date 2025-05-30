@@ -1,6 +1,7 @@
 /** @type {import('next-sitemap').IConfig} */
-module.exports = {
+export default {
     siteUrl: 'https://aamoshmaharjan.com.np',
     generateRobotsTxt: true,
-  }
+    sitemapSize: 700
+  };
   
